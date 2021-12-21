@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="DI_UT3_ACT01_Miguel.jnlp">
+  <information>
+    <title>DI_UT3_ACT01_Miguel</title>
+    <vendor>CFGS</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="DI_UT3_ACT01_Miguel.jar" size="2844" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="paquete.Principal"  name="DI_UT3_ACT01_Miguel" />
+  <update check="always"/>
+</jnlp>
